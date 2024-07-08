@@ -1,5 +1,6 @@
 ## S3 Replication Rule Configuration ##
 **Overview**
+
 This repository contains documentation and practical examples for configuring S3 replication rules within the same AWS region. It combines theoretical information about Amazon S3 and its content with practical demonstrations of setting up replication rules.
 
 **Contents**
@@ -21,10 +22,10 @@ Supplementary Materials:
 **Images**: Visual aids and diagrams illustrating the setup and architecture.
 <br>
 
-**Purpose**
+**Purpose** <br>
 The purpose of this repository is to provide a comprehensive resource for understanding and implementing S3 replication rules in a practical environment. It serves as both a learning tool and a reference for AWS users interested in enhancing data redundancy and durability within AWS S3.
 
-**Usage**
+**Usage**<br>
 To use this repository effectively:
 
  -Refer to the theoretical section for background information.<br>
@@ -32,4 +33,5 @@ To use this repository effectively:
 -Use the provided PDF and images for visual reference and deeper understanding.<br>
 
 **Feedback and Contributions**
+
 -Feedback and contributions are welcome! If you find any issues or have suggestions for improvements<br> please feel free to open an issue or submit a pull request.
